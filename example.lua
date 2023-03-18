@@ -1,4 +1,6 @@
 color = 0xE1E1E1
+nextColor = 0xE1E1E1
+prevColor = 0xE1E1E1
 prevPrevColor = 0
 local paint = require('imagePaint')
 local gui = require('gui')
